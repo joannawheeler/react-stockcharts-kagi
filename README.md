@@ -7,6 +7,7 @@ npm 3+
 
 ## In one tab:
 $ git clone https://github.com/joannawheeler/react-stockcharts-kagi
+$ cd react-stockcharts-kagi
 $ cd server
 $ npm install
 $ PORT=3001 node bin/www # this should start a proxy server
